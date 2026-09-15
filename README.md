@@ -69,4 +69,4 @@ Later versions of the test used naturalistic Slack/email-style messages and a mu
 
 ## License
 
-MIT
+Apache License 2.0 — see LICENSE file.
